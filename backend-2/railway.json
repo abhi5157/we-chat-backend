@@ -1,0 +1,12 @@
+{
+    "build": {
+      "command": "npm install"
+    },
+    "start": {
+      "command": "npm start"
+    },
+    "postdeploy": {
+      "command": "npm run postdeploy"
+    }
+  }
+  
